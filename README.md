@@ -47,4 +47,4 @@ year trial period with specific limitations.
 
 * [Continuous Delivery and DevOps: A Quickstart guide](https://www.packtpub.com/networking-and-servers/devops-bootcamp?utm_source=github&utm_medium=repository&utm_campaign=9781787285965)
 
-* [Implementing Modern DevOps](https://www.packtpub.com/networking-and-servers/devops-bootcamp?
+* [Implementing Modern DevOps] (https://www.packtpub.com/networking-and-servers/devops-bootcamp?
